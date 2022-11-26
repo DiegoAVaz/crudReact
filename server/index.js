@@ -21,7 +21,7 @@ app.get('/getCards', (req, res) => {
     })
 })
 
-/*
+
 // POST
 app.post('/register', (req, res) => {
     const {name} = req.body
@@ -34,7 +34,6 @@ app.post('/register', (req, res) => {
         console.log(err)
     })
 })
-*/
 
 /*
 // Teste
